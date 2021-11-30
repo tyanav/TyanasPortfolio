@@ -240,6 +240,11 @@ a:link{
     color:white;
 
 }
+.boxR a:hover, a:active {
+    background-color: purple;
+    color:white;
+
+}
 p, a {
     color: black;
     font-size: 20px;
